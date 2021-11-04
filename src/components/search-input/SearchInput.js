@@ -1,7 +1,7 @@
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getHotelsData, setSearchText } from '../../actions';
-import '../../css/search-input.css';
+import '../../css/search-input.scss';
 import { hotelsData } from '../../data/hotelsData';
 import SearchList from '../sreach-list/SearchList';
 

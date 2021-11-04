@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import '../../css/details.css';
+import '../../css/details.scss';
 import logo from '../../assets/fabhotel.jpg';
 import { hotelsData } from '../../data/hotelsData';
 import Header from '../layout/Header';
